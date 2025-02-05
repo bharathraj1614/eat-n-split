@@ -1,5 +1,20 @@
-# Getting Started with Create React App
+Bill-Splitting App (React Project)
+This project is part of my journey to learning React, where I explored key concepts like state management (useState), component-based architecture, and handling dynamic user interactions.
 
+Key Features:
+✅ Add Friends: Users can add friends with a name and profile picture.
+✅ Track Balances: See who owes whom, with clear balance updates.
+✅ Split Bills Easily: Enter a bill amount, specify contributions, and update balances dynamically.
+✅ Interactive UI: Simple and user-friendly design with intuitive interactions.
+
+Tech Stack & Learning Takeaways:
+🚀 React & Hooks: Gained hands-on experience with useState for managing app state.
+🎨 JSX & CSS: Improved skills in component styling and structuring a React UI.
+🛠️ Event Handling: Worked with form inputs, button clicks, and real-time updates.
+
+This project helped me solidify my understanding of React fundamentals and how to build dynamic, interactive apps. Excited to keep learning and improving!# Getting Started with Create React App.
+
+##########
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
