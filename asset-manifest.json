@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bharathraj1614/eat-n-split/static/css/main.f38a3276.css",
+    "main.js": "/bharathraj1614/eat-n-split/static/js/main.b311747b.js",
+    "index.html": "/bharathraj1614/eat-n-split/index.html",
+    "main.f38a3276.css.map": "/bharathraj1614/eat-n-split/static/css/main.f38a3276.css.map",
+    "main.b311747b.js.map": "/bharathraj1614/eat-n-split/static/js/main.b311747b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.b311747b.js"
+  ]
+}
